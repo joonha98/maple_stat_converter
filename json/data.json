@@ -6,19 +6,19 @@
             [
             {
                 "add_type" : "arcane_2",
-                "value" : 759
+                "add_value" : 759
             },
             {
                 "add_type" : "arcane_1",
-                "value" : 799
+                "add_value" : 799
             },
             {
                 "add_type" : "genesis_2",
-                "value" : 828
+                "add_value" : 828
             },
             {
                 "add_type" : "genesis_1",
-                "value" : 875
+                "add_value" : 875
             }
             ],
         "job passive" :
@@ -58,19 +58,19 @@
             [
             {
                 "add_type" : "arcane_2",
-                "value" : 759
+                "add_value" : 759
             },
             {
                 "add_type" : "arcane_1",
-                "value" : 799
+                "add_value" : 799
             },
             {
                 "add_type" : "genesis_2",
-                "value" : 828
+                "add_value" : 828
             },
             {
                 "add_type" : "genesis_1",
-                "value" : 875
+                "add_value" : 875
             }
             ],
         "job passive" :
