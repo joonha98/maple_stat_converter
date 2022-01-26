@@ -1,99 +1,1808 @@
 [
-    {
-        "job_name" : "Adele",
-        "stat_condition" : "레조스택x, 메용사용, 쓸만한 컴뱃 오더스x",
-        "weapon_add" :
-            [
-            {
-                "add_type" : "arcane_2",
-                "add_value" : 759
-            },
-            {
-                "add_type" : "arcane_1",
-                "add_value" : 799
-            },
-            {
-                "add_type" : "genesis_2",
-                "add_value" : 828
-            },
-            {
-                "add_type" : "genesis_1",
-                "add_value" : 875
-            }
-            ],
-        "job passive" :
-            [
-            {
-                "base_stat" : 60,
-                "stat_percent" : 0,
-                "sub_stat" : 0,
-                "base_att" : 201,
-                "att_percent" : 10,
-                "damage" : 0,
-                "boss_damage" : 10,
-                "final_damage" : 49.5,
-                "def_ignore" : 20,
-                "cri_damage" : 10,
-                "weapon_constant" : 1.3,
-                "proficiency" : 0.9
-            }
-            ]
+  {
+     "job_name" : "Adele",
+     "stat_condition" : "메용 사용, 레조스택x, 쓸만한 컴뱃 오더스x",
+     "weapon_add" :
+        [
+        { 
+           "add_type" : "arcane_2",
+           "add_value" : "759"
+        },
+        { 
+           "add_type" : "arcane_1",
+           "add_value" : "799"
+        },
+        { 
+           "add_type" : "genesis_2",
+           "add_value" : "828"
+        },
+        { 
+           "add_type" : "genesis_1",
+           "add_value" : "875"
+        }
+        ],
+     "job_passive" :
+        [
+        { 
+           "base_stat" : "60",
+           "stat_percent" : "0",
+           "sub_stat" : "0",
+           "base_att" : "#REF!",
+           "att_percent" : "10",
+           "damage" : "0",
+           "boss_damage" : "10",
+           "final_damage" : "49.5",
+           "def_ignore" : "20",
+           "cri_damage" : "10",
+           "weapon_constant" : "1.3",
+           "proficiency" : "0.9",
+        }
+        ]
+  }
 
-    },
+,
+  {
+     "job_name" : "Hero",
+     "stat_condition" : "메용 사용, 10콤보, 인레이지O, 분노, 쓸만한 컴뱃 오더스x",
+     "weapon_add" :
+        [
+        { 
+           "add_type" : "arcane_2",
+           "add_value" : "759"
+        },
+        { 
+           "add_type" : "arcane_1",
+           "add_value" : "799"
+        },
+        { 
+           "add_type" : "genesis_2",
+           "add_value" : "828"
+        },
+        { 
+           "add_type" : "genesis_1",
+           "add_value" : "875"
+        }
+        ],
+     "job_passive" :
+        [
+        { 
+           "base_stat" : "30",
+           "stat_percent" : "0",
+           "sub_stat" : "30",
+           "base_att" : "80",
+           "att_percent" : "0",
+           "damage" : "0",
+           "boss_damage" : "20",
+           "final_damage" : "202.5",
+           "def_ignore" : "50",
+           "cri_damage" : "20",
+           "weapon_constant" : "1.44",
+           "proficiency" : "0.9",
+        }
+        ]
+  }
 
+,
+  {
+     "job_name" : "Cadena",
+     "stat_condition" : "메용 사용, 스택X, 쓸만한 컴뱃 오더스x",
+     "weapon_add" :
+        [
+        { 
+           "add_type" : "arcane_2",
+           "add_value" : "725"
+        },
+        { 
+           "add_type" : "arcane_1",
+           "add_value" : "762"
+        },
+        { 
+           "add_type" : "genesis_2",
+           "add_value" : "789"
+        },
+        { 
+           "add_type" : "genesis_1",
+           "add_value" : "832"
+        }
+        ],
+     "job_passive" :
+        [
+        { 
+           "base_stat" : "80",
+           "stat_percent" : "0",
+           "sub_stat" : "30",
+           "base_att" : "70",
+           "att_percent" : "0",
+           "damage" : "0",
+           "boss_damage" : "0",
+           "final_damage" : "0",
+           "def_ignore" : "20",
+           "cri_damage" : "25",
+           "weapon_constant" : "1.3",
+           "proficiency" : "0.9",
+        }
+        ]
+  }
 
+,
+  {
+     "job_name" : "Mercedes",
+     "stat_condition" : "메용 사용, 앤시언트 스피릿 사용, 스택X, 쓸만한 컴뱃 오더스x",
+     "weapon_add" :
+        [
+        { 
+           "add_type" : "arcane_2",
+           "add_value" : "725"
+        },
+        { 
+           "add_type" : "arcane_1",
+           "add_value" : "762"
+        },
+        { 
+           "add_type" : "genesis_2",
+           "add_value" : "789"
+        },
+        { 
+           "add_type" : "genesis_1",
+           "add_value" : "832"
+        }
+        ],
+     "job_passive" :
+        [
+        { 
+           "base_stat" : "30",
+           "stat_percent" : "0",
+           "sub_stat" : "30",
+           "base_att" : "90",
+           "att_percent" : "30",
+           "damage" : "50",
+           "boss_damage" : "20",
+           "final_damage" : "38",
+           "def_ignore" : "25",
+           "cri_damage" : "30",
+           "weapon_constant" : "1.3",
+           "proficiency" : "0.85",
+        }
+        ]
+  }
 
-   
+,
+  {
+     "job_name" : "Ark",
+     "stat_condition" : "메용 사용, 레프폼, 스펠버프X, 로디드X, 쓸만한 컴뱃 오더스x",
+     "weapon_add" :
+        [
+        { 
+           "add_type" : "arcane_2",
+           "add_value" : "624"
+        },
+        { 
+           "add_type" : "arcane_1",
+           "add_value" : "654"
+        },
+        { 
+           "add_type" : "genesis_2",
+           "add_value" : "673"
+        },
+        { 
+           "add_type" : "genesis_1",
+           "add_value" : "707"
+        }
+        ],
+     "job_passive" :
+        [
+        { 
+           "base_stat" : "60",
+           "stat_percent" : "0",
+           "sub_stat" : "0",
+           "base_att" : "#REF!",
+           "att_percent" : "0",
+           "damage" : "0",
+           "boss_damage" : "30",
+           "final_damage" : "32",
+           "def_ignore" : "30",
+           "cri_damage" : "30",
+           "weapon_constant" : "1.7",
+           "proficiency" : "0.9",
+        }
+        ]
+  }
 
+,
+  {
+     "job_name" : "Kaiser",
+     "stat_condition" : "메용 사용, 인간폼, 공격모드, 모프3, 블레이즈 업 사용, 쓸만한 컴뱃 오더스x",
+     "weapon_add" :
+        [
+        { 
+           "add_type" : "arcane_2",
+           "add_value" : "759"
+        },
+        { 
+           "add_type" : "arcane_1",
+           "add_value" : "799"
+        },
+        { 
+           "add_type" : "genesis_2",
+           "add_value" : "828"
+        },
+        { 
+           "add_type" : "genesis_1",
+           "add_value" : "875"
+        }
+        ],
+     "job_passive" :
+        [
+        { 
+           "base_stat" : "50",
+           "stat_percent" : "0",
+           "sub_stat" : "0",
+           "base_att" : "115",
+           "att_percent" : "30",
+           "damage" : "0",
+           "boss_damage" : "0",
+           "final_damage" : "20",
+           "def_ignore" : "40",
+           "cri_damage" : "15",
+           "weapon_constant" : "1.34",
+           "proficiency" : "0.9",
+        }
+        ]
+  }
 
+,
+  {
+     "job_name" : "Hoyoung",
+     "stat_condition" : "메용 사용, 쓸만한 컴뱃 오더스x",
+     "weapon_add" :
+        [
+        { 
+           "add_type" : "arcane_2",
+           "add_value" : "725"
+        },
+        { 
+           "add_type" : "arcane_1",
+           "add_value" : "762"
+        },
+        { 
+           "add_type" : "genesis_2",
+           "add_value" : "789"
+        },
+        { 
+           "add_type" : "genesis_1",
+           "add_value" : "832"
+        }
+        ],
+     "job_passive" :
+        [
+        { 
+           "base_stat" : "60",
+           "stat_percent" : "0",
+           "sub_stat" : "0",
+           "base_att" : "#REF!",
+           "att_percent" : "10",
+           "damage" : "10",
+           "boss_damage" : "20",
+           "final_damage" : "#REF!",
+           "def_ignore" : "27",
+           "cri_damage" : "#REF!",
+           "weapon_constant" : "1.3",
+           "proficiency" : "0.9",
+        }
+        ]
+  }
 
+,
+  {
+     "job_name" : "Nightlord",
+     "stat_condition" : "메용 사용, 쓸만한 컴뱃 오더스x",
+     "weapon_add" :
+        [
+        { 
+           "add_type" : "arcane_2",
+           "add_value" : "492"
+        },
+        { 
+           "add_type" : "arcane_1",
+           "add_value" : "512"
+        },
+        { 
+           "add_type" : "genesis_2",
+           "add_value" : "551"
+        },
+        { 
+           "add_type" : "genesis_1",
+           "add_value" : "574"
+        }
+        ],
+     "job_passive" :
+        [
+        { 
+           "base_stat" : "50",
+           "stat_percent" : "0",
+           "sub_stat" : "30",
+           "base_att" : "70",
+           "att_percent" : "0",
+           "damage" : "0",
+           "boss_damage" : "10",
+           "final_damage" : "25",
+           "def_ignore" : "30",
+           "cri_damage" : "30",
+           "weapon_constant" : "1.75",
+           "proficiency" : "0.9",
+        }
+        ]
+  }
 
+,
+  {
+     "job_name" : "Angelicbuster",
+     "stat_condition" : "메용 사용, 소울게이즈 사용, 로디드X, 쓸만한 컴뱃 오더스x",
+     "weapon_add" :
+        [
+        { 
+           "add_type" : "arcane_2",
+           "add_value" : "624"
+        },
+        { 
+           "add_type" : "arcane_1",
+           "add_value" : "654"
+        },
+        { 
+           "add_type" : "genesis_2",
+           "add_value" : "673"
+        },
+        { 
+           "add_type" : "genesis_1",
+           "add_value" : "707"
+        }
+        ],
+     "job_passive" :
+        [
+        { 
+           "base_stat" : "80",
+           "stat_percent" : "0",
+           "sub_stat" : "0",
+           "base_att" : "90",
+           "att_percent" : "0",
+           "damage" : "20",
+           "boss_damage" : "0",
+           "final_damage" : "10",
+           "def_ignore" : "15",
+           "cri_damage" : "60",
+           "weapon_constant" : "1.7",
+           "proficiency" : "0.95",
+        }
+        ]
+  }
 
+,
+  {
+     "job_name" : "Phantom",
+     "stat_condition" : "메용 사용, 파이널컷X, 크오체X, 쓸만한 컴뱃 오더스x",
+     "weapon_add" :
+        [
+        { 
+           "add_type" : "arcane_2",
+           "add_value" : "733"
+        },
+        { 
+           "add_type" : "arcane_1",
+           "add_value" : "770"
+        },
+        { 
+           "add_type" : "genesis_2",
+           "add_value" : "804"
+        },
+        { 
+           "add_type" : "genesis_1",
+           "add_value" : "848"
+        }
+        ],
+     "job_passive" :
+        [
+        { 
+           "base_stat" : "140",
+           "stat_percent" : "0",
+           "sub_stat" : "40",
+           "base_att" : "80",
+           "att_percent" : "0",
+           "damage" : "30",
+           "boss_damage" : "0",
+           "final_damage" : "62.5",
+           "def_ignore" : "30",
+           "cri_damage" : "15",
+           "weapon_constant" : "1.3",
+           "proficiency" : "0.9",
+        }
+        ]
+  }
 
+,
+  {
+     "job_name" : "Dualblade",
+     "stat_condition" : "메용 사용, 파이널컷X, 쓸만한 컴뱃 오더스x",
+     "weapon_add" :
+        [
+        { 
+           "add_type" : "arcane_2",
+           "add_value" : "725"
+        },
+        { 
+           "add_type" : "arcane_1",
+           "add_value" : "762"
+        },
+        { 
+           "add_type" : "genesis_2",
+           "add_value" : "789"
+        },
+        { 
+           "add_type" : "genesis_1",
+           "add_value" : "832"
+        }
+        ],
+     "job_passive" :
+        [
+        { 
+           "base_stat" : "30",
+           "stat_percent" : "0",
+           "sub_stat" : "30",
+           "base_att" : "90",
+           "att_percent" : "0",
+           "damage" : "0",
+           "boss_damage" : "0",
+           "final_damage" : "20",
+           "def_ignore" : "0",
+           "cri_damage" : "13",
+           "weapon_constant" : "1.3",
+           "proficiency" : "0.9",
+        }
+        ]
+  }
 
-    {
-        "job_name" : "Adele",
-        "stat_condition" : "레조스택x, 메용사용, 쓸만한 컴뱃 오더스x",
-        "weapon_add" :
-            [
-            {
-                "add_type" : "arcane_2",
-                "add_value" : 759
-            },
-            {
-                "add_type" : "arcane_1",
-                "add_value" : 799
-            },
-            {
-                "add_type" : "genesis_2",
-                "add_value" : 828
-            },
-            {
-                "add_type" : "genesis_1",
-                "add_value" : 875
-            }
-            ],
-        "job passive" :
-            [
-            {
-                "base_stat" : 60,
-                "stat_percent" : 0,
-                "sub_stat" : 0,
-                "base_att" : 201,
-                "att_percent" : 10,
-                "damage" : 0,
-                "boss_damage" : 10,
-                "final_damage" : 49.5,
-                "def_ignore" : 20,
-                "cri_damage" : 10,
-                "weapon_constant" : 1.3,
-                "proficiency" : 0.9
-            }
-            ]
+,
+  {
+     "job_name" : "Paladin",
+     "stat_condition" : "메용 사용, 컴뱃, 엘포, 가드 사용, 0차지, 쓸만한 컴뱃 오더스x",
+     "weapon_add" :
+        [
+        { 
+           "add_type" : "arcane_2",
+           "add_value" : "759"
+        },
+        { 
+           "add_type" : "arcane_1",
+           "add_value" : "799"
+        },
+        { 
+           "add_type" : "genesis_2",
+           "add_value" : "828"
+        },
+        { 
+           "add_type" : "genesis_1",
+           "add_value" : "875"
+        }
+        ],
+     "job_passive" :
+        [
+        { 
+           "base_stat" : "30",
+           "stat_percent" : "0",
+           "sub_stat" : "30",
+           "base_att" : "30",
+           "att_percent" : "0",
+           "damage" : "0",
+           "boss_damage" : "0",
+           "final_damage" : "71.82",
+           "def_ignore" : "31",
+           "cri_damage" : "20",
+           "weapon_constant" : "1.34",
+           "proficiency" : "0.9",
+        }
+        ]
+  }
 
-    }
+,
+  {
+     "job_name" : "Zero",
+     "stat_condition" : "메용 사용, 제로-베타 디바인포스, 쓸만한 컴뱃 오더스x",
+     "weapon_add" :
+        [
+        { 
+           "add_type" : "arcane_2",
+           "add_value" : "714"
+        },
+        { 
+           "add_type" : "arcane_1",
+           "add_value" : "750"
+        },
+        { 
+           "add_type" : "genesis_2",
+           "add_value" : "779"
+        },
+        { 
+           "add_type" : "genesis_1",
+           "add_value" : "820"
+        }
+        ],
+     "job_passive" :
+        [
+        { 
+           "base_stat" : "50",
+           "stat_percent" : "0",
+           "sub_stat" : "0",
+           "base_att" : "100",
+           "att_percent" : "0",
+           "damage" : "0",
+           "boss_damage" : "90",
+           "final_damage" : "31.25",
+           "def_ignore" : "28",
+           "cri_damage" : "0",
+           "weapon_constant" : "1.49",
+           "proficiency" : "0.9",
+        }
+        ]
+  }
 
+,
+  {
+     "job_name" : "Mechanic",
+     "stat_condition" : "메용 사용, 탱크상태, 로디드X, 쓸만한 컴뱃 오더스x",
+     "weapon_add" :
+        [
+        { 
+           "add_type" : "arcane_2",
+           "add_value" : "615"
+        },
+        { 
+           "add_type" : "arcane_1",
+           "add_value" : "644"
+        },
+        { 
+           "add_type" : "genesis_2",
+           "add_value" : "662"
+        },
+        { 
+           "add_type" : "genesis_1",
+           "add_value" : "696"
+        }
+        ],
+     "job_passive" :
+        [
+        { 
+           "base_stat" : "30",
+           "stat_percent" : "0",
+           "sub_stat" : "30",
+           "base_att" : "#REF!",
+           "att_percent" : "0",
+           "damage" : "10",
+           "boss_damage" : "0",
+           "final_damage" : "20",
+           "def_ignore" : "30",
+           "cri_damage" : "5",
+           "weapon_constant" : "1.5",
+           "proficiency" : "0.85",
+        }
+        ]
+  }
 
+,
+  {
+     "job_name" : "ArkmageFP",
+     "stat_condition" : "메용 사용, 메디테이션 사용, 쓸만한 컴뱃 오더스x",
+     "weapon_add" :
+        [
+        { 
+           "add_type" : "arcane_2",
+           "add_value" : "865"
+        },
+        { 
+           "add_type" : "arcane_1",
+           "add_value" : "913"
+        },
+        { 
+           "add_type" : "genesis_2",
+           "add_value" : "949"
+        },
+        { 
+           "add_type" : "genesis_1",
+           "add_value" : "1004"
+        }
+        ],
+     "job_passive" :
+        [
+        { 
+           "base_stat" : "40",
+           "stat_percent" : "0",
+           "sub_stat" : "0",
+           "base_att" : "70",
+           "att_percent" : "0",
+           "damage" : "50",
+           "boss_damage" : "0",
+           "final_damage" : "40",
+           "def_ignore" : "20",
+           "cri_damage" : "13",
+           "weapon_constant" : "1.2",
+           "proficiency" : "0.95",
+        }
+        ]
+  }
+
+,
+  {
+     "job_name" : "Shadower",
+     "stat_condition" : "메용 사용, 플립 더 코인 0스택, 프리마 크리티컬 크뎀10퍼, 쓸만한 컴뱃 오더스x",
+     "weapon_add" :
+        [
+        { 
+           "add_type" : "arcane_2",
+           "add_value" : "725"
+        },
+        { 
+           "add_type" : "arcane_1",
+           "add_value" : "762"
+        },
+        { 
+           "add_type" : "genesis_2",
+           "add_value" : "789"
+        },
+        { 
+           "add_type" : "genesis_1",
+           "add_value" : "832"
+        }
+        ],
+     "job_passive" :
+        [
+        { 
+           "base_stat" : "60",
+           "stat_percent" : "0",
+           "sub_stat" : "30",
+           "base_att" : "160",
+           "att_percent" : "0",
+           "damage" : "0",
+           "boss_damage" : "0",
+           "final_damage" : "25",
+           "def_ignore" : "20",
+           "cri_damage" : "45",
+           "weapon_constant" : "1.3",
+           "proficiency" : "0.9",
+        }
+        ]
+  }
+
+,
+  {
+     "job_name" : "Evan",
+     "stat_condition" : "메용 사용, 오닉스의 축복, 교감 사용, 쓸만한 컴뱃 오더스x",
+     "weapon_add" :
+        [
+        { 
+           "add_type" : "arcane_2",
+           "add_value" : "865"
+        },
+        { 
+           "add_type" : "arcane_1",
+           "add_value" : "913"
+        },
+        { 
+           "add_type" : "genesis_2",
+           "add_value" : "949"
+        },
+        { 
+           "add_type" : "genesis_1",
+           "add_value" : "1004"
+        }
+        ],
+     "job_passive" :
+        [
+        { 
+           "base_stat" : "50",
+           "stat_percent" : "0",
+           "sub_stat" : "10",
+           "base_att" : "185",
+           "att_percent" : "35",
+           "damage" : "20",
+           "boss_damage" : "20",
+           "final_damage" : "49.5",
+           "def_ignore" : "20",
+           "cri_damage" : "40",
+           "weapon_constant" : "1.2",
+           "proficiency" : "0.95",
+        }
+        ]
+  }
+
+,
+  {
+     "job_name" : "Pathfinder",
+     "stat_condition" : "메용 사용, 샤프 아이즈 사용, 쓸만한 컴뱃 오더스x",
+     "weapon_add" :
+        [
+        { 
+           "add_type" : "arcane_2",
+           "add_value" : "725"
+        },
+        { 
+           "add_type" : "arcane_1",
+           "add_value" : "762"
+        },
+        { 
+           "add_type" : "genesis_2",
+           "add_value" : "789"
+        },
+        { 
+           "add_type" : "genesis_1",
+           "add_value" : "832"
+        }
+        ],
+     "job_passive" :
+        [
+        { 
+           "base_stat" : "110",
+           "stat_percent" : "0",
+           "sub_stat" : "30",
+           "base_att" : "80",
+           "att_percent" : "20",
+           "damage" : "10",
+           "boss_damage" : "0",
+           "final_damage" : "0",
+           "def_ignore" : "30",
+           "cri_damage" : "18",
+           "weapon_constant" : "1.3",
+           "proficiency" : "0.85",
+        }
+        ]
+  }
+
+,
+  {
+     "job_name" : "Eunwol",
+     "stat_condition" : "메용 사용, 로디드X, 쓸만한 컴뱃 오더스x",
+     "weapon_add" :
+        [
+        { 
+           "add_type" : "arcane_2",
+           "add_value" : "624"
+        },
+        { 
+           "add_type" : "arcane_1",
+           "add_value" : "654"
+        },
+        { 
+           "add_type" : "genesis_2",
+           "add_value" : "673"
+        },
+        { 
+           "add_type" : "genesis_1",
+           "add_value" : "707"
+        }
+        ],
+     "job_passive" :
+        [
+        { 
+           "base_stat" : "60",
+           "stat_percent" : "0",
+           "sub_stat" : "0",
+           "base_att" : "20",
+           "att_percent" : "0",
+           "damage" : "20",
+           "boss_damage" : "30",
+           "final_damage" : "26.5",
+           "def_ignore" : "30",
+           "cri_damage" : "20",
+           "weapon_constant" : "1.7",
+           "proficiency" : "0.9",
+        }
+        ]
+  }
+
+,
+  {
+     "job_name" : "Aran",
+     "stat_condition" : "메용 사용, 500콤보, 쓸만한 컴뱃 오더스x",
+     "weapon_add" :
+        [
+        { 
+           "add_type" : "arcane_2",
+           "add_value" : "703"
+        },
+        { 
+           "add_type" : "arcane_1",
+           "add_value" : "739"
+        },
+        { 
+           "add_type" : "genesis_2",
+           "add_value" : "763"
+        },
+        { 
+           "add_type" : "genesis_1",
+           "add_value" : "804"
+        }
+        ],
+     "job_passive" :
+        [
+        { 
+           "base_stat" : "30",
+           "stat_percent" : "0",
+           "sub_stat" : "30",
+           "base_att" : "180",
+           "att_percent" : "5",
+           "damage" : "20",
+           "boss_damage" : "0",
+           "final_damage" : "0",
+           "def_ignore" : "40",
+           "cri_damage" : "18",
+           "weapon_constant" : "1.49",
+           "proficiency" : "0.9",
+        }
+        ]
+  }
+
+,
+  {
+     "job_name" : "Luminous",
+     "stat_condition" : "메용 사용, 포틱 메디테이션 사용, 쓸만한 컴뱃 오더스x",
+     "weapon_add" :
+        [
+        { 
+           "add_type" : "arcane_2",
+           "add_value" : "853"
+        },
+        { 
+           "add_type" : "arcane_1",
+           "add_value" : "900"
+        },
+        { 
+           "add_type" : "genesis_2",
+           "add_value" : "938"
+        },
+        { 
+           "add_type" : "genesis_1",
+           "add_value" : "992"
+        }
+        ],
+     "job_passive" :
+        [
+        { 
+           "base_stat" : "60",
+           "stat_percent" : "0",
+           "sub_stat" : "0",
+           "base_att" : "80",
+           "att_percent" : "0",
+           "damage" : "15",
+           "boss_damage" : "0",
+           "final_damage" : "82",
+           "def_ignore" : "49",
+           "cri_damage" : "15",
+           "weapon_constant" : "1.2",
+           "proficiency" : "0.95",
+        }
+        ]
+  }
+
+,
+  {
+     "job_name" : "Darkknight",
+     "stat_condition" : "메용 사용, 비홀더, 크오체사용, 쓸만한 컴뱃 오더스x",
+     "weapon_add" :
+        [
+        { 
+           "add_type" : "arcane_2",
+           "add_value" : "759"
+        },
+        { 
+           "add_type" : "arcane_1",
+           "add_value" : "799"
+        },
+        { 
+           "add_type" : "genesis_2",
+           "add_value" : "828"
+        },
+        { 
+           "add_type" : "genesis_1",
+           "add_value" : "875"
+        }
+        ],
+     "job_passive" :
+        [
+        { 
+           "base_stat" : "30",
+           "stat_percent" : "0",
+           "sub_stat" : "30",
+           "base_att" : "100",
+           "att_percent" : "0",
+           "damage" : "5",
+           "boss_damage" : "0",
+           "final_damage" : "134",
+           "def_ignore" : "37",
+           "cri_damage" : "38",
+           "weapon_constant" : "1.49",
+           "proficiency" : "0.9",
+        }
+        ]
+  }
+
+,
+  {
+     "job_name" : "Marksman",
+     "stat_condition" : "메용 사용, 샤프아이즈, 아쳐리 사용, 쓸만한 컴뱃 오더스x",
+     "weapon_add" :
+        [
+        { 
+           "add_type" : "arcane_2",
+           "add_value" : "736"
+        },
+        { 
+           "add_type" : "arcane_1",
+           "add_value" : "775"
+        },
+        { 
+           "add_type" : "genesis_2",
+           "add_value" : "804"
+        },
+        { 
+           "add_type" : "genesis_1",
+           "add_value" : "848"
+        }
+        ],
+     "job_passive" :
+        [
+        { 
+           "base_stat" : "70",
+           "stat_percent" : "0",
+           "sub_stat" : "30",
+           "base_att" : "60",
+           "att_percent" : "0",
+           "damage" : "15",
+           "boss_damage" : "0",
+           "final_damage" : "38",
+           "def_ignore" : "25",
+           "cri_damage" : "43",
+           "weapon_constant" : "1.35",
+           "proficiency" : "0.85",
+        }
+        ]
+  }
+
+,
+  {
+     "job_name" : "Cannonshooter",
+     "stat_condition" : "메용 사용, 몽키 매직 사용, 로디드X, 쓸만한 컴뱃 오더스x",
+     "weapon_add" :
+        [
+        { 
+           "add_type" : "arcane_2",
+           "add_value" : "771"
+        },
+        { 
+           "add_type" : "arcane_1",
+           "add_value" : "812"
+        },
+        { 
+           "add_type" : "genesis_2",
+           "add_value" : "843"
+        },
+        { 
+           "add_type" : "genesis_1",
+           "add_value" : "891"
+        }
+        ],
+     "job_passive" :
+        [
+        { 
+           "base_stat" : "90",
+           "stat_percent" : "0",
+           "sub_stat" : "90",
+           "base_att" : "60",
+           "att_percent" : "0",
+           "damage" : "0",
+           "boss_damage" : "40",
+           "final_damage" : "43",
+           "def_ignore" : "20",
+           "cri_damage" : "5",
+           "weapon_constant" : "1.5",
+           "proficiency" : "0.85",
+        }
+        ]
+  }
+
+,
+  {
+     "job_name" : "Captain",
+     "stat_condition" : "메용 사용, 파이렛 스타일 사용, 로디드X, 쓸만한 컴뱃 오더스x",
+     "weapon_add" :
+        [
+        { 
+           "add_type" : "arcane_2",
+           "add_value" : "615"
+        },
+        { 
+           "add_type" : "arcane_1",
+           "add_value" : "644"
+        },
+        { 
+           "add_type" : "genesis_2",
+           "add_value" : "662"
+        },
+        { 
+           "add_type" : "genesis_1",
+           "add_value" : "696"
+        }
+        ],
+     "job_passive" :
+        [
+        { 
+           "base_stat" : "30",
+           "stat_percent" : "0",
+           "sub_stat" : "30",
+           "base_att" : "90",
+           "att_percent" : "20",
+           "damage" : "0",
+           "boss_damage" : "0",
+           "final_damage" : "20",
+           "def_ignore" : "20",
+           "cri_damage" : "55",
+           "weapon_constant" : "1.5",
+           "proficiency" : "0.85",
+        }
+        ]
+  }
+
+,
+  {
+     "job_name" : "Bowmaster",
+     "stat_condition" : "메용 사용, 소울 애로우, 샤프아이즈, 아쳐리 사용, 쓸만한 컴뱃 오더스x",
+     "weapon_add" :
+        [
+        { 
+           "add_type" : "arcane_2",
+           "add_value" : "725"
+        },
+        { 
+           "add_type" : "arcane_1",
+           "add_value" : "762"
+        },
+        { 
+           "add_type" : "genesis_2",
+           "add_value" : "789"
+        },
+        { 
+           "add_type" : "genesis_1",
+           "add_value" : "832"
+        }
+        ],
+     "job_passive" :
+        [
+        { 
+           "base_stat" : "120",
+           "stat_percent" : "0",
+           "sub_stat" : "30",
+           "base_att" : "150",
+           "att_percent" : "25",
+           "damage" : "0",
+           "boss_damage" : "0",
+           "final_damage" : "30",
+           "def_ignore" : "25",
+           "cri_damage" : "16",
+           "weapon_constant" : "1.3",
+           "proficiency" : "0.85",
+        }
+        ]
+  }
+
+,
+  {
+     "job_name" : "Blaster",
+     "stat_condition" : "메용 사용, 스택X, 쓸만한 컴뱃 오더스x",
+     "weapon_add" :
+        [
+        { 
+           "add_type" : "arcane_2",
+           "add_value" : "624"
+        },
+        { 
+           "add_type" : "arcane_1",
+           "add_value" : "654"
+        },
+        { 
+           "add_type" : "genesis_2",
+           "add_value" : "673"
+        },
+        { 
+           "add_type" : "genesis_1",
+           "add_value" : "707"
+        }
+        ],
+     "job_passive" :
+        [
+        { 
+           "base_stat" : "30",
+           "stat_percent" : "0",
+           "sub_stat" : "30",
+           "base_att" : "60",
+           "att_percent" : "15",
+           "damage" : "20",
+           "boss_damage" : "20",
+           "final_damage" : "0",
+           "def_ignore" : "35",
+           "cri_damage" : "20",
+           "weapon_constant" : "1.7",
+           "proficiency" : "0.9",
+        }
+        ]
+  }
+
+,
+  {
+     "job_name" : "Kinesis",
+     "stat_condition" : "메용 사용, 쓸만한 컴뱃 오더스x",
+     "weapon_add" :
+        [
+        { 
+           "add_type" : "arcane_2",
+           "add_value" : "853"
+        },
+        { 
+           "add_type" : "arcane_1",
+           "add_value" : "900"
+        },
+        { 
+           "add_type" : "genesis_2",
+           "add_value" : "938"
+        },
+        { 
+           "add_type" : "genesis_1",
+           "add_value" : "992"
+        }
+        ],
+     "job_passive" :
+        [
+        { 
+           "base_stat" : "40",
+           "stat_percent" : "0",
+           "sub_stat" : "0",
+           "base_att" : "100",
+           "att_percent" : "10",
+           "damage" : "40",
+           "boss_damage" : "30",
+           "final_damage" : "30",
+           "def_ignore" : "25",
+           "cri_damage" : "30",
+           "weapon_constant" : "1.2",
+           "proficiency" : "0.9",
+        }
+        ]
+  }
+
+,
+  {
+     "job_name" : "ArkmageTC",
+     "stat_condition" : "메용 사용, 쓸만한 컴뱃 오더스x",
+     "weapon_add" :
+        [
+        { 
+           "add_type" : "arcane_2",
+           "add_value" : "865"
+        },
+        { 
+           "add_type" : "arcane_1",
+           "add_value" : "913"
+        },
+        { 
+           "add_type" : "genesis_2",
+           "add_value" : "949"
+        },
+        { 
+           "add_type" : "genesis_1",
+           "add_value" : "1004"
+        }
+        ],
+     "job_passive" :
+        [
+        { 
+           "base_stat" : "40",
+           "stat_percent" : "0",
+           "sub_stat" : "0",
+           "base_att" : "70",
+           "att_percent" : "0",
+           "damage" : "50",
+           "boss_damage" : "0",
+           "final_damage" : "50",
+           "def_ignore" : "20",
+           "cri_damage" : "13",
+           "weapon_constant" : "1.2",
+           "proficiency" : "0.95",
+        }
+        ]
+  }
+
+,
+  {
+     "job_name" : "Bishop",
+     "stat_condition" : "메용 사용, 벤전스ON, 쓸만한 컴뱃 오더스x",
+     "weapon_add" :
+        [
+        { 
+           "add_type" : "arcane_2",
+           "add_value" : "865"
+        },
+        { 
+           "add_type" : "arcane_1",
+           "add_value" : "913"
+        },
+        { 
+           "add_type" : "genesis_2",
+           "add_value" : "949"
+        },
+        { 
+           "add_type" : "genesis_1",
+           "add_value" : "1004"
+        }
+        ],
+     "job_passive" :
+        [
+        { 
+           "base_stat" : "40",
+           "stat_percent" : "0",
+           "sub_stat" : "0",
+           "base_att" : "120",
+           "att_percent" : "0",
+           "damage" : "0",
+           "boss_damage" : "0",
+           "final_damage" : "33.9",
+           "def_ignore" : "20",
+           "cri_damage" : "13",
+           "weapon_constant" : "1.2",
+           "proficiency" : "0.95",
+        }
+        ]
+  }
+
+,
+  {
+     "job_name" : "Viper",
+     "stat_condition" : "메용 사용, 바이퍼지션 사용, 미완충 상태, 로디드X, 쓸만한 컴뱃 오더스x",
+     "weapon_add" :
+        [
+        { 
+           "add_type" : "arcane_2",
+           "add_value" : "624"
+        },
+        { 
+           "add_type" : "arcane_1",
+           "add_value" : "654"
+        },
+        { 
+           "add_type" : "genesis_2",
+           "add_value" : "673"
+        },
+        { 
+           "add_type" : "genesis_1",
+           "add_value" : "707"
+        }
+        ],
+     "job_passive" :
+        [
+        { 
+           "base_stat" : "30",
+           "stat_percent" : "0",
+           "sub_stat" : "30",
+           "base_att" : "90",
+           "att_percent" : "30",
+           "damage" : "0",
+           "boss_damage" : "20",
+           "final_damage" : "0",
+           "def_ignore" : "0",
+           "cri_damage" : "15",
+           "weapon_constant" : "1.7",
+           "proficiency" : "0.9",
+        }
+        ]
+  }
+
+,
+  {
+     "job_name" : "Soulmaster",
+     "stat_condition" : "메용 사용, 소울포지, 솔루나 타임 사용, 쓸만한 컴뱃 오더스x",
+     "weapon_add" :
+        [
+        { 
+           "add_type" : "arcane_2",
+           "add_value" : "759"
+        },
+        { 
+           "add_type" : "arcane_1",
+           "add_value" : "799"
+        },
+        { 
+           "add_type" : "genesis_2",
+           "add_value" : "828"
+        },
+        { 
+           "add_type" : "genesis_1",
+           "add_value" : "875"
+        }
+        ],
+     "job_passive" :
+        [
+        { 
+           "base_stat" : "#REF!",
+           "stat_percent" : "0",
+           "sub_stat" : "50",
+           "base_att" : "215",
+           "att_percent" : "10",
+           "damage" : "0",
+           "boss_damage" : "15",
+           "final_damage" : "25",
+           "def_ignore" : "37",
+           "cri_damage" : "15",
+           "weapon_constant" : "1.34",
+           "proficiency" : "0.9",
+        }
+        ]
+  }
+
+,
+  {
+     "job_name" : "Flamewizard",
+     "stat_condition" : "메용 사용, 북 오브 파이어 사용, 쓸만한 컴뱃 오더스x",
+     "weapon_add" :
+        [
+        { 
+           "add_type" : "arcane_2",
+           "add_value" : "865"
+        },
+        { 
+           "add_type" : "arcane_1",
+           "add_value" : "913"
+        },
+        { 
+           "add_type" : "genesis_2",
+           "add_value" : "949"
+        },
+        { 
+           "add_type" : "genesis_1",
+           "add_value" : "1004"
+        }
+        ],
+     "job_passive" :
+        [
+        { 
+           "base_stat" : "#REF!",
+           "stat_percent" : "0",
+           "sub_stat" : "0",
+           "base_att" : "95",
+           "att_percent" : "10",
+           "damage" : "0",
+           "boss_damage" : "0",
+           "final_damage" : "95",
+           "def_ignore" : "30",
+           "cri_damage" : "20",
+           "weapon_constant" : "1.2",
+           "proficiency" : "0.95",
+        }
+        ]
+  }
+
+,
+  {
+     "job_name" : "Windbreaker",
+     "stat_condition" : "메용 사용, 실프스 에이드, 샤프아이즈, 엘리멘트 : 스톰 사용, 쓸만한 컴뱃 오더스x",
+     "weapon_add" :
+        [
+        { 
+           "add_type" : "arcane_2",
+           "add_value" : "725"
+        },
+        { 
+           "add_type" : "arcane_1",
+           "add_value" : "762"
+        },
+        { 
+           "add_type" : "genesis_2",
+           "add_value" : "789"
+        },
+        { 
+           "add_type" : "genesis_1",
+           "add_value" : "832"
+        }
+        ],
+     "job_passive" :
+        [
+        { 
+           "base_stat" : "#REF!",
+           "stat_percent" : "0.15",
+           "sub_stat" : "30",
+           "base_att" : "125",
+           "att_percent" : "20",
+           "damage" : "35",
+           "boss_damage" : "40",
+           "final_damage" : "25",
+           "def_ignore" : "15",
+           "cri_damage" : "28",
+           "weapon_constant" : "1.3",
+           "proficiency" : "0.85",
+        }
+        ]
+  }
+
+,
+  {
+     "job_name" : "Nightwalker",
+     "stat_condition" : "메용 사용, 쓸만한 컴뱃 오더스x",
+     "weapon_add" :
+        [
+        { 
+           "add_type" : "arcane_2",
+           "add_value" : "492"
+        },
+        { 
+           "add_type" : "arcane_1",
+           "add_value" : "512"
+        },
+        { 
+           "add_type" : "genesis_2",
+           "add_value" : "551"
+        },
+        { 
+           "add_type" : "genesis_1",
+           "add_value" : "574"
+        }
+        ],
+     "job_passive" :
+        [
+        { 
+           "base_stat" : "#REF!",
+           "stat_percent" : "0",
+           "sub_stat" : "0",
+           "base_att" : "65",
+           "att_percent" : "10",
+           "damage" : "30",
+           "boss_damage" : "0",
+           "final_damage" : "15",
+           "def_ignore" : "15",
+           "cri_damage" : "30",
+           "weapon_constant" : "1.75",
+           "proficiency" : "0.85",
+        }
+        ]
+  }
+
+,
+  {
+     "job_name" : "Striker",
+     "stat_condition" : "메용 사용, 로디드X, 쓸만한 컴뱃 오더스x",
+     "weapon_add" :
+        [
+        { 
+           "add_type" : "arcane_2",
+           "add_value" : "624"
+        },
+        { 
+           "add_type" : "arcane_1",
+           "add_value" : "654"
+        },
+        { 
+           "add_type" : "genesis_2",
+           "add_value" : "673"
+        },
+        { 
+           "add_type" : "genesis_1",
+           "add_value" : "707"
+        }
+        ],
+     "job_passive" :
+        [
+        { 
+           "base_stat" : "#REF!",
+           "stat_percent" : "0",
+           "sub_stat" : "0",
+           "base_att" : "55",
+           "att_percent" : "10",
+           "damage" : "5",
+           "boss_damage" : "0",
+           "final_damage" : "20",
+           "def_ignore" : "9",
+           "cri_damage" : "45",
+           "weapon_constant" : "1.7",
+           "proficiency" : "0.9",
+        }
+        ]
+  }
+
+,
+  {
+     "job_name" : "Mihile",
+     "stat_condition" : "메용 사용, 격려, 소울 레이지 사용, 소울 링크X, 쓸만한 컴뱃 오더스x",
+     "weapon_add" :
+        [
+        { 
+           "add_type" : "arcane_2",
+           "add_value" : "736"
+        },
+        { 
+           "add_type" : "arcane_1",
+           "add_value" : "775"
+        },
+        { 
+           "add_type" : "genesis_2",
+           "add_value" : "804"
+        },
+        { 
+           "add_type" : "genesis_1",
+           "add_value" : "848"
+        }
+        ],
+     "job_passive" :
+        [
+        { 
+           "base_stat" : "90",
+           "stat_percent" : "0",
+           "sub_stat" : "30",
+           "base_att" : "110",
+           "att_percent" : "10",
+           "damage" : "60",
+           "boss_damage" : "0",
+           "final_damage" : "64.45",
+           "def_ignore" : "40",
+           "cri_damage" : "20",
+           "weapon_constant" : "1.2",
+           "proficiency" : "0.9",
+        }
+        ]
+  }
+
+,
+  {
+     "job_name" : "Battlemage",
+     "stat_condition" : "메용 사용, 다크 오라, 배틀레이지 사용, 쓸만한 컴뱃 오더스x",
+     "weapon_add" :
+        [
+        { 
+           "add_type" : "arcane_2",
+           "add_value" : "865"
+        },
+        { 
+           "add_type" : "arcane_1",
+           "add_value" : "913"
+        },
+        { 
+           "add_type" : "genesis_2",
+           "add_value" : "949"
+        },
+        { 
+           "add_type" : "genesis_1",
+           "add_value" : "1004"
+        }
+        ],
+     "job_passive" :
+        [
+        { 
+           "base_stat" : "40",
+           "stat_percent" : "0",
+           "sub_stat" : "0",
+           "base_att" : "80",
+           "att_percent" : "40",
+           "damage" : "70",
+           "boss_damage" : "0",
+           "final_damage" : "15",
+           "def_ignore" : "30",
+           "cri_damage" : "50",
+           "weapon_constant" : "1.2",
+           "proficiency" : "0.95",
+        }
+        ]
+  }
+
+,
+  {
+     "job_name" : "Wildhunter",
+     "stat_condition" : "메용 사용, 소울 애로우, 샤프아이즈 , 하울링 서먼 재규어 사용, 쓸만한 컴뱃 오더스x",
+     "weapon_add" :
+        [
+        { 
+           "add_type" : "arcane_2",
+           "add_value" : "736"
+        },
+        { 
+           "add_type" : "arcane_1",
+           "add_value" : "775"
+        },
+        { 
+           "add_type" : "genesis_2",
+           "add_value" : "804"
+        },
+        { 
+           "add_type" : "genesis_1",
+           "add_value" : "848"
+        }
+        ],
+     "job_passive" :
+        [
+        { 
+           "base_stat" : "130",
+           "stat_percent" : "0",
+           "sub_stat" : "70",
+           "base_att" : "100",
+           "att_percent" : "35",
+           "damage" : "10",
+           "boss_damage" : "10",
+           "final_damage" : "20",
+           "def_ignore" : "30",
+           "cri_damage" : "48",
+           "weapon_constant" : "1.35",
+           "proficiency" : "0.85",
+        }
+        ]
+  }
+
+,
+  {
+     "job_name" : "Demonslayer",
+     "stat_condition" : "메용 사용, 메타모포시스 사용, 쓸만한 컴뱃 오더스x",
+     "weapon_add" :
+        [
+        { 
+           "add_type" : "arcane_2",
+           "add_value" : "736"
+        },
+        { 
+           "add_type" : "arcane_1",
+           "add_value" : "775"
+        },
+        { 
+           "add_type" : "genesis_2",
+           "add_value" : "804"
+        },
+        { 
+           "add_type" : "genesis_1",
+           "add_value" : "848"
+        }
+        ],
+     "job_passive" :
+        [
+        { 
+           "base_stat" : "30",
+           "stat_percent" : "0",
+           "sub_stat" : "30",
+           "base_att" : "100",
+           "att_percent" : "0",
+           "damage" : "35",
+           "boss_damage" : "0",
+           "final_damage" : "25",
+           "def_ignore" : "30",
+           "cri_damage" : "15",
+           "weapon_constant" : "1.2",
+           "proficiency" : "0.9",
+        }
+        ]
+  }
+
+,
+  {
+     "job_name" : "Illium",
+     "stat_condition" : "메용 사용, 스택X, 쓸만한 컴뱃 오더스x",
+     "weapon_add" :
+        [
+        { 
+           "add_type" : "arcane_2",
+           "add_value" : "853"
+        },
+        { 
+           "add_type" : "arcane_1",
+           "add_value" : "900"
+        },
+        { 
+           "add_type" : "genesis_2",
+           "add_value" : "938"
+        },
+        { 
+           "add_type" : "genesis_1",
+           "add_value" : "992"
+        }
+        ],
+     "job_passive" :
+        [
+        { 
+           "base_stat" : "40",
+           "stat_percent" : "0",
+           "sub_stat" : "0",
+           "base_att" : "#REF!",
+           "att_percent" : "10",
+           "damage" : "20",
+           "boss_damage" : "30",
+           "final_damage" : "35",
+           "def_ignore" : "25",
+           "cri_damage" : "30",
+           "weapon_constant" : "1.2",
+           "proficiency" : "0.9",
+        }
+        ]
+  }
+
+,
+  {
+     "job_name" : "Kain",
+     "stat_condition" : "메용 사용, 쓸만한 컴뱃 오더스x",
+     "weapon_add" :
+        [
+        { 
+           "add_type" : "arcane_2",
+           "add_value" : "725"
+        },
+        { 
+           "add_type" : "arcane_1",
+           "add_value" : "762"
+        },
+        { 
+           "add_type" : "genesis_2",
+           "add_value" : "789"
+        },
+        { 
+           "add_type" : "genesis_1",
+           "add_value" : "832"
+        }
+        ],
+     "job_passive" :
+        [
+        { 
+           "base_stat" : "60",
+           "stat_percent" : "0",
+           "sub_stat" : "0",
+           "base_att" : "110",
+           "att_percent" : "0",
+           "damage" : "10",
+           "boss_damage" : "10",
+           "final_damage" : "87",
+           "def_ignore" : "37",
+           "cri_damage" : "40",
+           "weapon_constant" : "1.3",
+           "proficiency" : "0.85",
+        }
+        ]
+  }
+
+,
+  {
+     "job_name" : "Lala",
+     "stat_condition" : "메용 사용, 쓸만한 컴뱃 오더스x",
+     "weapon_add" :
+        [
+        { 
+           "add_type" : "arcane_2",
+           "add_value" : "853"
+        },
+        { 
+           "add_type" : "arcane_1",
+           "add_value" : "900"
+        },
+        { 
+           "add_type" : "genesis_2",
+           "add_value" : "938"
+        },
+        { 
+           "add_type" : "genesis_1",
+           "add_value" : "992"
+        }
+        ],
+     "job_passive" :
+        [
+        { 
+           "base_stat" : "40",
+           "stat_percent" : "0",
+           "sub_stat" : "0",
+           "base_att" : "135",
+           "att_percent" : "0",
+           "damage" : "25",
+           "boss_damage" : "10",
+           "final_damage" : "97.92",
+           "def_ignore" : "40",
+           "cri_damage" : "20",
+           "weapon_constant" : "1.2",
+           "proficiency" : "0.95",
+        }
+        ]
+  }
 
 
 ]
