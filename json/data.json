@@ -38,9 +38,7 @@
            "proficiency" : "0.9",
         }
         ]
-  }
-
-,
+  },
   {
      "job_name" : "Hero",
      "stat_condition" : "메용 사용, 10콤보, 인레이지O, 분노, 쓸만한 컴뱃 오더스x",
@@ -80,9 +78,7 @@
            "proficiency" : "0.9",
         }
         ]
-  }
-
-,
+  },
   {
      "job_name" : "Cadena",
      "stat_condition" : "메용 사용, 스택X, 쓸만한 컴뱃 오더스x",
@@ -122,9 +118,7 @@
            "proficiency" : "0.9",
         }
         ]
-  }
-
-,
+  },
   {
      "job_name" : "Mercedes",
      "stat_condition" : "메용 사용, 앤시언트 스피릿 사용, 스택X, 쓸만한 컴뱃 오더스x",
@@ -164,9 +158,7 @@
            "proficiency" : "0.85",
         }
         ]
-  }
-
-,
+  },
   {
      "job_name" : "Ark",
      "stat_condition" : "메용 사용, 레프폼, 스펠버프X, 로디드X, 쓸만한 컴뱃 오더스x",
@@ -206,9 +198,7 @@
            "proficiency" : "0.9",
         }
         ]
-  }
-
-,
+  },
   {
      "job_name" : "Kaiser",
      "stat_condition" : "메용 사용, 인간폼, 공격모드, 모프3, 블레이즈 업 사용, 쓸만한 컴뱃 오더스x",
@@ -248,9 +238,7 @@
            "proficiency" : "0.9",
         }
         ]
-  }
-
-,
+  },
   {
      "job_name" : "Hoyoung",
      "stat_condition" : "메용 사용, 쓸만한 컴뱃 오더스x",
@@ -290,9 +278,7 @@
            "proficiency" : "0.9",
         }
         ]
-  }
-
-,
+  },
   {
      "job_name" : "Nightlord",
      "stat_condition" : "메용 사용, 쓸만한 컴뱃 오더스x",
@@ -332,9 +318,7 @@
            "proficiency" : "0.9",
         }
         ]
-  }
-
-,
+  },
   {
      "job_name" : "Angelicbuster",
      "stat_condition" : "메용 사용, 소울게이즈 사용, 로디드X, 쓸만한 컴뱃 오더스x",
@@ -374,9 +358,7 @@
            "proficiency" : "0.95",
         }
         ]
-  }
-
-,
+  },
   {
      "job_name" : "Phantom",
      "stat_condition" : "메용 사용, 파이널컷X, 크오체X, 쓸만한 컴뱃 오더스x",
@@ -416,9 +398,7 @@
            "proficiency" : "0.9",
         }
         ]
-  }
-
-,
+  },
   {
      "job_name" : "Dualblade",
      "stat_condition" : "메용 사용, 파이널컷X, 쓸만한 컴뱃 오더스x",
@@ -458,9 +438,7 @@
            "proficiency" : "0.9",
         }
         ]
-  }
-
-,
+  },
   {
      "job_name" : "Paladin",
      "stat_condition" : "메용 사용, 컴뱃, 엘포, 가드 사용, 0차지, 쓸만한 컴뱃 오더스x",
@@ -500,9 +478,7 @@
            "proficiency" : "0.9",
         }
         ]
-  }
-
-,
+  },
   {
      "job_name" : "Zero",
      "stat_condition" : "메용 사용, 제로-베타 디바인포스, 쓸만한 컴뱃 오더스x",
@@ -542,9 +518,7 @@
            "proficiency" : "0.9",
         }
         ]
-  }
-
-,
+  },
   {
      "job_name" : "Mechanic",
      "stat_condition" : "메용 사용, 탱크상태, 로디드X, 쓸만한 컴뱃 오더스x",
@@ -584,9 +558,7 @@
            "proficiency" : "0.85",
         }
         ]
-  }
-
-,
+  },
   {
      "job_name" : "ArkmageFP",
      "stat_condition" : "메용 사용, 메디테이션 사용, 쓸만한 컴뱃 오더스x",
@@ -626,9 +598,7 @@
            "proficiency" : "0.95",
         }
         ]
-  }
-
-,
+  },
   {
      "job_name" : "Shadower",
      "stat_condition" : "메용 사용, 플립 더 코인 0스택, 프리마 크리티컬 크뎀10퍼, 쓸만한 컴뱃 오더스x",
@@ -668,9 +638,7 @@
            "proficiency" : "0.9",
         }
         ]
-  }
-
-,
+  },
   {
      "job_name" : "Evan",
      "stat_condition" : "메용 사용, 오닉스의 축복, 교감 사용, 쓸만한 컴뱃 오더스x",
@@ -710,9 +678,7 @@
            "proficiency" : "0.95",
         }
         ]
-  }
-
-,
+  },
   {
      "job_name" : "Pathfinder",
      "stat_condition" : "메용 사용, 샤프 아이즈 사용, 쓸만한 컴뱃 오더스x",
@@ -752,9 +718,7 @@
            "proficiency" : "0.85",
         }
         ]
-  }
-
-,
+  },
   {
      "job_name" : "Eunwol",
      "stat_condition" : "메용 사용, 로디드X, 쓸만한 컴뱃 오더스x",
@@ -794,9 +758,7 @@
            "proficiency" : "0.9",
         }
         ]
-  }
-
-,
+  },
   {
      "job_name" : "Aran",
      "stat_condition" : "메용 사용, 500콤보, 쓸만한 컴뱃 오더스x",
@@ -836,9 +798,7 @@
            "proficiency" : "0.9",
         }
         ]
-  }
-
-,
+  },
   {
      "job_name" : "Luminous",
      "stat_condition" : "메용 사용, 포틱 메디테이션 사용, 쓸만한 컴뱃 오더스x",
@@ -878,9 +838,7 @@
            "proficiency" : "0.95",
         }
         ]
-  }
-
-,
+  },
   {
      "job_name" : "Darkknight",
      "stat_condition" : "메용 사용, 비홀더, 크오체사용, 쓸만한 컴뱃 오더스x",
@@ -920,9 +878,7 @@
            "proficiency" : "0.9",
         }
         ]
-  }
-
-,
+  },
   {
      "job_name" : "Marksman",
      "stat_condition" : "메용 사용, 샤프아이즈, 아쳐리 사용, 쓸만한 컴뱃 오더스x",
@@ -962,9 +918,7 @@
            "proficiency" : "0.85",
         }
         ]
-  }
-
-,
+  },
   {
      "job_name" : "Cannonshooter",
      "stat_condition" : "메용 사용, 몽키 매직 사용, 로디드X, 쓸만한 컴뱃 오더스x",
@@ -1004,9 +958,7 @@
            "proficiency" : "0.85",
         }
         ]
-  }
-
-,
+  },
   {
      "job_name" : "Captain",
      "stat_condition" : "메용 사용, 파이렛 스타일 사용, 로디드X, 쓸만한 컴뱃 오더스x",
@@ -1046,9 +998,7 @@
            "proficiency" : "0.85",
         }
         ]
-  }
-
-,
+  },
   {
      "job_name" : "Bowmaster",
      "stat_condition" : "메용 사용, 소울 애로우, 샤프아이즈, 아쳐리 사용, 쓸만한 컴뱃 오더스x",
@@ -1088,9 +1038,7 @@
            "proficiency" : "0.85",
         }
         ]
-  }
-
-,
+  },
   {
      "job_name" : "Blaster",
      "stat_condition" : "메용 사용, 스택X, 쓸만한 컴뱃 오더스x",
@@ -1130,9 +1078,7 @@
            "proficiency" : "0.9",
         }
         ]
-  }
-
-,
+  },
   {
      "job_name" : "Kinesis",
      "stat_condition" : "메용 사용, 쓸만한 컴뱃 오더스x",
@@ -1172,9 +1118,7 @@
            "proficiency" : "0.9",
         }
         ]
-  }
-
-,
+  },
   {
      "job_name" : "ArkmageTC",
      "stat_condition" : "메용 사용, 쓸만한 컴뱃 오더스x",
@@ -1214,9 +1158,7 @@
            "proficiency" : "0.95",
         }
         ]
-  }
-
-,
+  },
   {
      "job_name" : "Bishop",
      "stat_condition" : "메용 사용, 벤전스ON, 쓸만한 컴뱃 오더스x",
@@ -1256,9 +1198,7 @@
            "proficiency" : "0.95",
         }
         ]
-  }
-
-,
+  },
   {
      "job_name" : "Viper",
      "stat_condition" : "메용 사용, 바이퍼지션 사용, 미완충 상태, 로디드X, 쓸만한 컴뱃 오더스x",
@@ -1298,9 +1238,7 @@
            "proficiency" : "0.9",
         }
         ]
-  }
-
-,
+  },
   {
      "job_name" : "Soulmaster",
      "stat_condition" : "메용 사용, 소울포지, 솔루나 타임 사용, 쓸만한 컴뱃 오더스x",
@@ -1340,9 +1278,7 @@
            "proficiency" : "0.9",
         }
         ]
-  }
-
-,
+  },
   {
      "job_name" : "Flamewizard",
      "stat_condition" : "메용 사용, 북 오브 파이어 사용, 쓸만한 컴뱃 오더스x",
@@ -1382,9 +1318,7 @@
            "proficiency" : "0.95",
         }
         ]
-  }
-
-,
+  },
   {
      "job_name" : "Windbreaker",
      "stat_condition" : "메용 사용, 실프스 에이드, 샤프아이즈, 엘리멘트 : 스톰 사용, 쓸만한 컴뱃 오더스x",
@@ -1424,9 +1358,7 @@
            "proficiency" : "0.85",
         }
         ]
-  }
-
-,
+  },
   {
      "job_name" : "Nightwalker",
      "stat_condition" : "메용 사용, 쓸만한 컴뱃 오더스x",
@@ -1466,9 +1398,7 @@
            "proficiency" : "0.85",
         }
         ]
-  }
-
-,
+  },
   {
      "job_name" : "Striker",
      "stat_condition" : "메용 사용, 로디드X, 쓸만한 컴뱃 오더스x",
@@ -1508,9 +1438,7 @@
            "proficiency" : "0.9",
         }
         ]
-  }
-
-,
+  },
   {
      "job_name" : "Mihile",
      "stat_condition" : "메용 사용, 격려, 소울 레이지 사용, 소울 링크X, 쓸만한 컴뱃 오더스x",
@@ -1550,9 +1478,7 @@
            "proficiency" : "0.9",
         }
         ]
-  }
-
-,
+  },
   {
      "job_name" : "Battlemage",
      "stat_condition" : "메용 사용, 다크 오라, 배틀레이지 사용, 쓸만한 컴뱃 오더스x",
@@ -1592,9 +1518,7 @@
            "proficiency" : "0.95",
         }
         ]
-  }
-
-,
+  },
   {
      "job_name" : "Wildhunter",
      "stat_condition" : "메용 사용, 소울 애로우, 샤프아이즈 , 하울링 서먼 재규어 사용, 쓸만한 컴뱃 오더스x",
@@ -1634,9 +1558,7 @@
            "proficiency" : "0.85",
         }
         ]
-  }
-
-,
+  },
   {
      "job_name" : "Demonslayer",
      "stat_condition" : "메용 사용, 메타모포시스 사용, 쓸만한 컴뱃 오더스x",
@@ -1676,9 +1598,7 @@
            "proficiency" : "0.9",
         }
         ]
-  }
-
-,
+  },
   {
      "job_name" : "Illium",
      "stat_condition" : "메용 사용, 스택X, 쓸만한 컴뱃 오더스x",
@@ -1718,9 +1638,7 @@
            "proficiency" : "0.9",
         }
         ]
-  }
-
-,
+  },
   {
      "job_name" : "Kain",
      "stat_condition" : "메용 사용, 쓸만한 컴뱃 오더스x",
@@ -1760,9 +1678,7 @@
            "proficiency" : "0.85",
         }
         ]
-  }
-
-,
+  },
   {
      "job_name" : "Lala",
      "stat_condition" : "메용 사용, 쓸만한 컴뱃 오더스x",
@@ -1803,6 +1719,4 @@
         }
         ]
   }
-
-
 ]
